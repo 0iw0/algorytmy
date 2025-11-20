@@ -1,7 +1,3 @@
-# Biblioteka Algorytmów - I etap OI
-
-Zbiór implementacji algorytmów i struktur danych przygotowanych na pierwszą turę pierwszego etapu Olimpiady Informatycznej.
-
 ## Struktura folderów
 
 ### 📁 data_structures/
